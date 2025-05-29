@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@tailwind utilities;
+
+body {
+  @apply font-sans;
+  background-color: rgb(236, 236, 236);
+}
